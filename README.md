@@ -6,7 +6,7 @@ This repository is dedicated to developing and experimenting with multi-agent sy
 
 Each system consists of multiple autonomous agents, each responsible for a specific task, working together in a structured workflow.
 
-##📌 Repository Structure
+## 📌 Repository Structure
 
 This repository is designed to support multiple multi-agent systems, each in its own directory. Below is the planned structure:
 
