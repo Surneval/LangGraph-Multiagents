@@ -38,7 +38,7 @@ Below are the multi-agent systems that will be developed in this repository:
 	•	✅ SummarizerAgent – Generates short summaries of extracted text.
 	•	✅ FinalReportAgent – Saves the final report as a text file.
 
-📂 Directory: web-search-system/
+📂 Directory: web_search/
 📜 Status: ✅ Completed
 
 ### 2️⃣ AI-Powered Chatbot Agent
