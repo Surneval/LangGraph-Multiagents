@@ -11,11 +11,17 @@ Each system consists of multiple autonomous agents, each responsible for a speci
 This repository is designed to support multiple multi-agent systems, each in its own directory. Below is the planned structure:
 
 📂 LangGraph-Multiagents/
+
 │── 📂 web_search/        # Web Searcher, Scraper, Corrector, Summarizer Agents
+
 │── 📂 chatbot-agent/            # Conversational AI Agent
+
 │── 📂 translation-agent/        # AI-Powered Multilingual Translator
+
 │── 📂 data-cleaning-agent/      # Automated Data Preprocessing Pipeline
+
 │── README.md                    # This documentation
+
 │── requirements.txt              # Required dependencies
 
 Each folder contains a LangGraph-powered multi-agent system designed for a specific task.
